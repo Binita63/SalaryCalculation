@@ -1,0 +1,2 @@
+1,binita,sharma,24000.0
+2,aarina,shresta,27600.0
